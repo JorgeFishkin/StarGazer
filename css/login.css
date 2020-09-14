@@ -1,0 +1,22 @@
+.bg-cover {
+			background-image: url("../images/login_stars.jpg");
+			height: 100vh;
+			background-position: center;
+			background-size: cover;
+			background-attachment: scroll;
+		  }
+		  
+.center-me {
+				display: flex;
+				justify-content: center;
+				padding: 10px;
+}
+
+.form-signin{
+				padding: 30px;
+				text-align: center;
+}
+
+input {
+	margin-bottom: 5px;
+}

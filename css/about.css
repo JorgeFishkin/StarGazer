@@ -1,0 +1,36 @@
+body {
+	font-family: 'Helvetica';
+	text-align: center;
+}
+
+.about {
+	background: #99bbff;
+	text-align: center;
+}
+
+img {
+	height:100px;
+	width:100px;
+}
+h1 {
+	color: #000066;
+}
+
+h2 {
+	color: #6600cc;
+}
+
+p {
+	color: #000066;
+}
+
+.column {
+	float: left;
+	margin-right: 10px;
+	width: 24%;
+}
+
+.card {
+	box-shadow: -10px 10px 8px #8585ad;
+	padding: 0 16px 0 16px;
+}
