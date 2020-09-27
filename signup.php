@@ -46,7 +46,7 @@ require "includes/header.php"
                             </div>
                         </div>
                     </form>
-                    <div class="text-center">Already registered? <a href="login.html">Sign in</a>
+                    <div class="text-center">Already registered? <a href="login.php">Sign in</a>
                     </div>
                 </div>
             </div>
